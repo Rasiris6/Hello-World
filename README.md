@@ -3,5 +3,5 @@
 | --- | ----------- |
 | What even is a Header? | Something |
 | Paragraph | I honestly have absolutely no idea if I'm doing this right. gitkraken doesn't seem to be
-uploading my edits to github. |
+uploading my edits to github. Update: I might have figured it out. |
 # I am supposed to write about myself but honestly my brain is dead just trying to figure this stuff out. #
